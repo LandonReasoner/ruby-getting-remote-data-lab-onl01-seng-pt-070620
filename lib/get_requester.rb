@@ -4,6 +4,6 @@ require 'json'
 
 class GetRequester
   
-  URL = 
+  URL = ""
   
   
